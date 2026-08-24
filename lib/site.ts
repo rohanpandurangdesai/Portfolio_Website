@@ -10,13 +10,13 @@ export const site = {
   experienceYears: 4,
   email: "rohandesai216@gmail.com",
   phone: "+91 8970143354",
-  // TODO: replace with your live domain before deploying to Vercel
-  url: "https://rohandesai.vercel.app",
+  // Live production URL (update to a custom domain if you add one on Vercel)
+  url: "https://portfolio-website-one-nu-71.vercel.app",
   resume: "/resume.pdf",
   socials: {
-    // Placeholders — update these once your profiles are ready.
+    // TODO: replace with your real LinkedIn profile URL.
     linkedin: "https://www.linkedin.com/in/your-linkedin-handle",
-    github: "https://github.com/your-github-handle",
+    github: "https://github.com/rohanpandurangdesai",
   },
   description:
     "DevOps Engineer with 4 years of experience designing, automating, and managing highly available cloud-native platforms on AWS.",
