@@ -10,8 +10,9 @@ export const site = {
   experienceYears: 4,
   email: "rohandesai216@gmail.com",
   phone: "+91 8970143354",
-  // Live production URL (update to a custom domain if you add one on Vercel)
-  url: "https://portfolio-website-one-nu-71.vercel.app",
+  // Custom domain (register rohanpdesai.com + point DNS to Vercel to activate).
+  // Until then the site is served on its .vercel.app production URL.
+  url: "https://rohanpdesai.com",
   resume: "/resume.pdf",
   socials: {
     // TODO: replace with your real LinkedIn profile URL.
