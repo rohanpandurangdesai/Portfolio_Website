@@ -10,9 +10,8 @@ export const site = {
   experienceYears: 4,
   email: "rohandesai216@gmail.com",
   phone: "+91 8970143354",
-  // Custom domain (register rohanpdesai.com + point DNS to Vercel to activate).
-  // Until then the site is served on its .vercel.app production URL.
-  url: "https://rohanpdesai.com",
+  // Free Vercel subdomain (live). Swap for a custom domain later if desired.
+  url: "https://rohanpdesai.vercel.app",
   resume: "/resume.pdf",
   socials: {
     linkedin: "https://www.linkedin.com/in/rohan-desai-248592202/",
