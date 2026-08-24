@@ -15,8 +15,7 @@ export const site = {
   url: "https://rohanpdesai.com",
   resume: "/resume.pdf",
   socials: {
-    // TODO: replace with your real LinkedIn profile URL.
-    linkedin: "https://www.linkedin.com/in/your-linkedin-handle",
+    linkedin: "https://www.linkedin.com/in/rohan-desai-248592202/",
     github: "https://github.com/rohanpandurangdesai",
   },
   description:
