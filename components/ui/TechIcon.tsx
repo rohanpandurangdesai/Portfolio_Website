@@ -11,7 +11,7 @@ import {
   SiKubernetes,
   SiOpensearch,
   SiPython,
-  SiSonarqube,
+  SiSonarqubeserver,
   SiTerraform,
   SiYaml,
 } from "react-icons/si";
@@ -45,7 +45,7 @@ const map: Record<string, Meta> = {
   argocd: { Icon: SiArgo, color: "#EF7B4D" },
   helm: { Icon: SiHelm, color: "#4F7DFF" },
   wiz: { Icon: FaShieldHalved, color: "#14B8A6" },
-  sonarqube: { Icon: SiSonarqube, color: "#4E9BCD" },
+  sonarqube: { Icon: SiSonarqubeserver, color: "#4E9BCD" },
   python: { Icon: SiPython, color: "#3B82F6" },
   yaml: { Icon: SiYaml, color: "#CB171E" },
   // used by certifications / focus areas
